@@ -1,6 +1,6 @@
 # Source: https://github.com/marketplace/actions/gradle-build-action
 
-name: Gradle build and test
+name: Gradle build
 on:
   push:
     branches: [ "main" ]

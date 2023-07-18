@@ -1,6 +1,6 @@
 # Katas_Java
 
-![ci master](https://github.com/levinjoller/kajava/actions/workflows/maven.yml/badge.svg)
+![ci master](https://github.com/levinjoller/kajava/actions/workflows/gradle.yml/badge.svg)
 | [![Budget](https://www.codewars.com/users/Arccos/badges/small)](https://www.codewars.com/users/Arccos/badges/small)
 
 The tasks are solved by test driven development. This project is for exercise purpose only.
