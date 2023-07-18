@@ -24,6 +24,3 @@ jobs:
 
     - name: Execute Gradlew build
       run: ./gradlew build
-
-    - name: Execute Gradlew test
-      run: ./gradlew test
