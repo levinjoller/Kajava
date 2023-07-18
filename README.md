@@ -21,11 +21,11 @@ Run unit tests:
 ```
 
 ## Kata reference
-
-| Kata name         | Codewars link                                                                           |
-|-------------------|-----------------------------------------------------------------------------------------|
-| Complementary DNA | [554e4a2f232cdd87d9000038](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/java) |
-| Vowel Count       | [54ff3102c1bad923760001f3](https://www.codewars.com/kata/54ff3102c1bad923760001f3)      |
+ 
+| Codewars kata                                                                    | My solution                                                                                                                                                          |
+|:---------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/java) | [DnaComplementaryCreator.java](https://github.com/levinjoller/Kajava/blob/3f2974087dd7f5397dbd4c1f747c4c3c3be4ba70/src/main/java/org/leviosa/kata/DnaComplementaryCreator.java) |
+| [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)            | [VowelCounter.java](https://github.com/levinjoller/Kajava/blob/3f2974087dd7f5397dbd4c1f747c4c3c3be4ba70/src/main/java/org/leviosa/kata/VowelCounter.java)                                                                                                                                                                 |
 
 ## Author
 
