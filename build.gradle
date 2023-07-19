@@ -5,6 +5,7 @@
 plugins {
     id 'java-library'
     id 'maven-publish'
+    id "org.sonarqube" version "4.2.1.3168"
 }
 
 repositories {
@@ -29,6 +30,14 @@ publishing {
         maven(MavenPublication) {
             from(components.java)
         }
+    }
+}
+
+sonar {
+    properties {
+        property "sonar.projectKey", "levinjoller_Kajava"
+        property "sonar.organization", "levinjoller"
+        property "sonar.host.url", "https://sonarcloud.io"
     }
 }
 
