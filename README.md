@@ -5,6 +5,12 @@
 
 The tasks are solved by test driven development. This project is for exercise purpose only.
 
+## Code quality
+
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=levinjoller_Kajava)
+| [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=levinjoller_Kajava)](https://sonarcloud.io/summary/new_code?id=levinjoller_Kajava)
+| [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=levinjoller_Kajava&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=levinjoller_Kajava)
+
 ## Build with
 
 - Intellij v2023.1
