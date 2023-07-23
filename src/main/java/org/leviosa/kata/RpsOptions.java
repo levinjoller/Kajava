@@ -2,7 +2,7 @@ package org.leviosa.kata;
 
 public enum RpsOptions {
     ROCK("rock"),
-    SCISSOR("scissor"),
+    SCISSORS("scissors"),
     PAPER("paper");
 
     private final String option;

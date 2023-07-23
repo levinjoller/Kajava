@@ -18,8 +18,8 @@ public class RockPaperScissors {
     }
 
     private boolean isPlayerOneWinner(RpsOptions player1, RpsOptions player2) {
-        return (player1 == ROCK && player2 == SCISSOR) //
-                || (player1 == SCISSOR && player2 == PAPER) //
+        return (player1 == ROCK && player2 == SCISSORS) //
+                || (player1 == SCISSORS && player2 == PAPER) //
                 || (player1 == PAPER && player2 == ROCK);
     }
 }

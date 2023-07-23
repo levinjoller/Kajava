@@ -32,7 +32,7 @@ Run unit tests:
 |:---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/java) | [DnaComplementaryCreator.java](https://github.com/levinjoller/Kajava/blob/3f2974087dd7f5397dbd4c1f747c4c3c3be4ba70/src/main/java/org/leviosa/kata/DnaComplementaryCreator.java) |
 | [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)            | [VowelCounter.java](https://github.com/levinjoller/Kajava/blob/3f2974087dd7f5397dbd4c1f747c4c3c3be4ba70/src/main/java/org/leviosa/kata/VowelCounter.java)                       |
-| [Rock Paper Scissors!](https://www.codewars.com/kata/5672a98bdbdd995fad00000f)   | [Rock Paper Scissors!](https://github.com/levinjoller/Kajava/blob/533667eec4b6eb0b3042ccc1f992dec032dd1018/src/main/java/org/leviosa/kata/RockPaperScissors.java#L5)            |
+| [Rock Paper Scissors!](https://www.codewars.com/kata/5672a98bdbdd995fad00000f)   | [RockPaperScissors.java](https://github.com/levinjoller/Kajava/blob/533667eec4b6eb0b3042ccc1f992dec032dd1018/src/main/java/org/leviosa/kata/RockPaperScissors.java#L5)          |
 
 ## Author
 
