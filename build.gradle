@@ -3,6 +3,7 @@
  */
 
 plugins {
+    id "jacoco"
     id 'java-library'
     id 'maven-publish'
     id "org.sonarqube" version "4.2.1.3168"
@@ -21,11 +22,14 @@ dependencies {
     testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 }
 
+java {
+    sourceCompatibility = JavaVersion.VERSION_1_9
+    targetCompatibility = JavaVersion.VERSION_1_9
+}
+
 group = 'org.leviosa.kata'
 version = '1.0-SNAPSHOT'
 description = 'kata'
-java.sourceCompatibility = JavaVersion.VERSION_1_9
-targetCompatibility = JavaVersion.VERSION_1_9
 
 publishing {
     publications {
@@ -43,14 +47,23 @@ sonar {
     }
 }
 
+jacoco {
+    toolVersion = "0.8.10"
+}
+
+jacocoTestReport {
+    reports {
+        xml.required = true
+    }
+}
+
 tasks.named('test', Test) {
     useJUnitPlatform()
-
     maxHeapSize = '1G'
-
     testLogging {
         events "passed", "skipped", "failed"
     }
+    finalizedBy jacocoTestReport
 }
 
 tasks.withType(JavaCompile) {
