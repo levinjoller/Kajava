@@ -33,6 +33,7 @@ Run unit tests:
 | [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/java) | [DnaComplementaryCreator.java](https://github.com/levinjoller/Kajava/blob/3f2974087dd7f5397dbd4c1f747c4c3c3be4ba70/src/main/java/org/leviosa/kata/DnaComplementaryCreator.java) |
 | [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)            | [VowelCounter.java](https://github.com/levinjoller/Kajava/blob/3f2974087dd7f5397dbd4c1f747c4c3c3be4ba70/src/main/java/org/leviosa/kata/VowelCounter.java)                       |
 | [Rock Paper Scissors!](https://www.codewars.com/kata/5672a98bdbdd995fad00000f)   | [RockPaperScissors.java](https://github.com/levinjoller/Kajava/blob/533667eec4b6eb0b3042ccc1f992dec032dd1018/src/main/java/org/leviosa/kata/RockPaperScissors.java#L5)          |
+| [Find the Slope](https://www.codewars.com/kata/55a75e2d0803fea18f00009d)         | [Slope.java](https://github.com/levinjoller/Kajava/blob/bcd6f6de0a8e7234721fffd85fdaecdda1b714bf/src/main/java/org/leviosa/kata/Slope.java)                                     |
 
 ## Author
 
