@@ -1,4 +1,4 @@
-package org.leviosa.kata;
+package org.leviosa.kata.rockpaperscissors;
 
 public enum RpsOptions {
     ROCK("rock"),

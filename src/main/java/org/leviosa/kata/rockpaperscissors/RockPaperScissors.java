@@ -1,6 +1,6 @@
-package org.leviosa.kata;
+package org.leviosa.kata.rockpaperscissors;
 
-import static org.leviosa.kata.RpsOptions.*;
+import static org.leviosa.kata.rockpaperscissors.RpsOptions.*;
 
 public class RockPaperScissors {
     public static final String PLAYER_ONE_WON = "Player 1 won!";

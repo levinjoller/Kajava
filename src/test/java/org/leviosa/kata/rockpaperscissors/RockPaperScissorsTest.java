@@ -1,10 +1,10 @@
-package org.leviosa.kata;
+package org.leviosa.kata.rockpaperscissors;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.leviosa.kata.RockPaperScissors.*;
+import static org.leviosa.kata.rockpaperscissors.RockPaperScissors.*;
 
 class RockPaperScissorsTest {
     @ParameterizedTest
